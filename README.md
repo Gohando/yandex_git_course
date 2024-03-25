@@ -7,7 +7,7 @@ just some tezt
 
 
 ## 2. So now for bullets
-* this some sites [Big boy] (https://youtube.com "meme big booy")
+* this some sites [Big boy](https://youtube.com "meme big booy")
 * and another pount
 ### this like bul
 ```C
